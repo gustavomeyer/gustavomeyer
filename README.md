@@ -1,15 +1,12 @@
-### Hi there 👋
-
 
 <div align="center">
+    <h1>Hi there 👋</h1>
 	<body> I am a designer who is tired of making...
-    <br>
-    <img src="https://github.com/gustavomeyer/gustavomeyer/raw/master/pp.gif">
-    <br>
+    <br><br>
+    <img src="https://media1.tenor.com/images/65c992ecb85b61cbfbc515592749694f/tenor.gif">
+    <br><br>
     ... and decided to learn to code.</body>
 </div>
-
-... and decided to learn to code.
 
 <!--
 **gustavomeyer/gustavomeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
