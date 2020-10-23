@@ -1,11 +1,11 @@
 ### Hi there 👋
-- I am a designer who is tired of making...
+I am a designer who is tired of making...
 
 <div align="center">
 	<img src="https://github.com/gustavomeyer/gustavomeyer/raw/master/pp.gif">
 </div>
 
--... and decided to learn to code.
+... and decided to learn to code.
 
 <!--
 **gustavomeyer/gustavomeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
