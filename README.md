@@ -3,7 +3,9 @@
 
 <div align="center">
 	<body> I am a designer who is tired of making...
+    <br>
     <img src="https://github.com/gustavomeyer/gustavomeyer/raw/master/pp.gif">
+    <br>
     ... and decided to learn to code.</body>
 </div>
 
