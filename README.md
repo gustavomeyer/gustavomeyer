@@ -1,8 +1,10 @@
 ### Hi there 👋
-I am a designer who is tired of making...
+
 
 <div align="center">
-	<img src="https://github.com/gustavomeyer/gustavomeyer/raw/master/pp.gif">
+	<body> I am a designer who is tired of making...
+    <img src="https://github.com/gustavomeyer/gustavomeyer/raw/master/pp.gif">
+    ... and decided to learn to code.</body>
 </div>
 
 ... and decided to learn to code.
