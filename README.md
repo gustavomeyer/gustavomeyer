@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-	<img src="https://github.com/gustavomeyer/gustavomeyer/raw/master/pp.gif">
+	<img src="https://github.com/gustavomeyer/gustavomeyer/master/pp.gif">
 </div>
 
 <!--
